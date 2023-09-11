@@ -9,7 +9,17 @@ I am looking for postdoctoral opportunities.
 
 #### Invasion Ecology
 
+  ##### Invader-facilitated Invasion
+
+[![Understory-Invasion](https://img.shields.io/badge/Github-UnderstoryInvasion-white?style=rounded-square)](https://github.com/jobinvarughese/Understory-invasion-paper)
+
 [![Ecology and Evolution](https://img.shields.io/badge/EcologyAndEvolution-white?style=rounded-square)](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9995)
+
+  ##### Native forest trees regeneration in invasive stands
+
+
+  ##### Native bird colisation in invasive stands
+
 
 #### Forest Mensuration
 
