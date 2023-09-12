@@ -6,6 +6,7 @@ I am also looking for postdoctoral opportunities.
 
 #### Invasion Ecology
 
+
 >##### Invader-facilitated Invasion
 >What are the patterns of understory plant regeneration in invasive timber landscapes for invasive species?
 
@@ -14,6 +15,8 @@ I am also looking for postdoctoral opportunities.
 >>Published in
 
 [![Ecology and Evolution](https://img.shields.io/badge/EcologyAndEvolution-white?style=rounded-square)](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9995)
+
+
 
 >##### Native forest trees regeneration in invasive stands
 >What are the patterns of understory plant regeneration in invasive timber landscapes for native forest species?
@@ -33,6 +36,7 @@ I am also looking for postdoctoral opportunities.
 [![Understory-Regeneration](https://img.shields.io/badge/Github-CopyFilesfromMultipleSubfoldersToSingleFolderWithSubfolderNameAttachedToTheirFilenames-white?style=rounded-square)](https://github.com/jobinvarughese/Copy-files-from-multiple-subfolders-to-a-single-folder-with-the-subfolder-name-attached-to-their-fil)
 
 
+
 >##### Native bird colonisation in invasive stands
 
 >What are the specific ecological settings in a modified landscape that permit the colonisation of native faunal biodiversity?
@@ -48,22 +52,34 @@ I am also looking for postdoctoral opportunities.
 
 [![Understory-Colonisation-Of-Birds](https://img.shields.io/badge/Github-GetSolarNoonTime-white?style=rounded-square)](https://github.com/jobinvarughese/GetSolarNoonTime)
 
+
+
+
 #### Forest Mensuration
 
 [![LidR](https://img.shields.io/badge/Github-lidRWithSpericalAndCylindrcalProjections-white?style=rounded-square)](https://github.com/jobinvarughese/lidR)
+
+
+
 
 #### Climate and Landscape Change
 >What are the patterns of landscape change in tropical mountainous regions, and how does the interaction with climate change affect the range?
 
 >>To study the interactive impacts of climate and land cover change, the mountain range needs to be mapped based on the intensity of these changes. Understanding the overlap between the future changes in climate and land cover will help mark the regions across the range based on the extent of alteration and the driver of the changes those regions might face. Annual precipitation and annual minimum temperature are important climatic variables that define the distribution of floral and faunal components on most mountaintops. With the land cover change, such maps can help decide the most vulnerable zones in a mountain range, which can help focus the conservation actions.
 
+
 >##### RGB map
 [![RGB-Map](https://img.shields.io/badge/Github-RGBMap-white?style=rounded-square)](https://github.com/jobinvarughese/RGB-Map)
+
+
 
 >##### Climate Velocity
 > What are the patterns of the speed and direction that a species at a given point in space would need to move to remain within its climatic niche?
 
 [![climate-velocity](https://img.shields.io/badge/Github-ClimateVelocity-white?style=rounded-square)](https://github.com/jobinvarughese/climate-velocity)
+
+
+
 
 #### Landscape metrics
 > Rcodes for metrics to study landscape ecology
