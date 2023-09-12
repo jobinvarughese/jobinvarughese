@@ -35,7 +35,15 @@ I am also looking for postdoctoral opportunities.
 
 
 >##### Native bird colonisation in invasive stands
+
 >What are the specific ecological settings in a modified landscape that permit the colonisation of native faunal biodiversity?
+
+
+>###### Avian traits and Types of wooded stands (Shola and Timber plantation)
+
+[![Avian-traits-and-Types-of-wooded-stands](https://img.shields.io/badge/Github-AvianTraitsAndTypesOfWoodedStands-white?style=rounded-square)](https://github.com/jobinvarughese/Avian-Traits-and-Woodland-Type)
+
+>>>Miscellaneous
 
 [![Understory-Colonisation-Of-Birds](https://img.shields.io/badge/Github-GetSolarNoonTime-white?style=rounded-square)](https://github.com/jobinvarughese/GetSolarNoonTime)
 
