@@ -36,7 +36,7 @@ Published in
 
 #### Forest Mensuration
 
-[![LidR](https://img.shields.io/badge/Github-ClimateVelocity-white?style=rounded-square)](https://github.com/jobinvarughese/climate-velocity)
+[![LidR](https://img.shields.io/badge/Github-lidRWithSpericalAndCylindrcalProjections-white?style=rounded-square)](https://github.com/jobinvarughese/lidR)
 
 #### Climate Velocity
 
