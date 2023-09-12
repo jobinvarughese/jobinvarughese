@@ -19,15 +19,17 @@ I am also looking for postdoctoral opportunities.
 ##### Native forest trees regeneration in invasive stands
 >What are the patterns of understory plant regeneration in invasive timber landscapes for native forest species?
 
-[![Understory-Regeneration](https://img.shields.io/badge/Github-DownloadURLsinDataframeWithinRespectiveFoldersfromRownames-white?style=rounded-square)](https://github.com/jobinvarughese/Download-URLs-in-a-dataframe-within-respective-folders-from-rownames)
-
-[![Understory-Regeneration](https://img.shields.io/badge/Github-DetrendedCanonicalAnalysis-white?style=rounded-square)](https://github.com/jobinvarughese/Detrended-Canonical-Analysis-)
-
 [![Understory-Regeneration](https://img.shields.io/badge/Github-SpeciesAreaCurve-white?style=rounded-square)](https://github.com/jobinvarughese/Species-Area-Curve)
 
 [![Understory-Regeneration](https://img.shields.io/badge/Github-VennDiagramShowingUnderstorySpeciesCountInEachOverstoryType-white?style=rounded-square)](https://github.com/jobinvarughese/Venn-diagram-showing-understory-species-count-in-each-overstory-type)
 
 [![Understory-Regeneration](https://img.shields.io/badge/Github-NMDSforUnderstorySpeciesAndOverstoryTypesUsingggplot-white?style=rounded-square)](https://github.com/jobinvarughese/NMDS-for-understory-species-and-overstory-types)
+
+[![Understory-Regeneration](https://img.shields.io/badge/Github-DetrendedCanonicalAnalysis-white?style=rounded-square)](https://github.com/jobinvarughese/Detrended-Canonical-Analysis-)
+ 
+>>>Miscellaneous
+
+[![Understory-Regeneration](https://img.shields.io/badge/Github-DownloadURLsinDataframeWithinRespectiveFoldersfromRownames-white?style=rounded-square)](https://github.com/jobinvarughese/Download-URLs-in-a-dataframe-within-respective-folders-from-rownames)
 
 [![Understory-Regeneration](https://img.shields.io/badge/Github-CopyFilesfromMultipleSubfoldersToSingleFolderWithSubfolderNameAttachedToTheirFilenames-white?style=rounded-square)](https://github.com/jobinvarughese/Copy-files-from-multiple-subfolders-to-a-single-folder-with-the-subfolder-name-attached-to-their-fil)
 
@@ -50,6 +52,7 @@ I am also looking for postdoctoral opportunities.
 [![RGB-Map](https://img.shields.io/badge/Github-RGBMap-white?style=rounded-square)](https://github.com/jobinvarughese/RGB-Map)
 
 ##### Climate Velocity
+> What are the patterns of the speed and direction that a species at a given point in space would need to move to remain within its climatic niche?
 
 [![climate-velocity](https://img.shields.io/badge/Github-ClimateVelocity-white?style=rounded-square)](https://github.com/jobinvarughese/climate-velocity)
 
