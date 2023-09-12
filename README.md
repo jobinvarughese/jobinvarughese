@@ -11,12 +11,23 @@ I am also looking for postdoctoral opportunities.
 
 [![Understory-Invasion](https://img.shields.io/badge/Github-UnderstoryInvasion-white?style=rounded-square)](https://github.com/jobinvarughese/Understory-invasion-paper)
 
+Published in
+
 [![Ecology and Evolution](https://img.shields.io/badge/EcologyAndEvolution-white?style=rounded-square)](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9995)
 
 ##### Native forest trees regeneration in invasive stands
 
+[![Understory-Regeneration](https://img.shields.io/badge/Github-DownloadURLsinDataframeWithinRespectiveFoldersfromRownames-white?style=rounded-square)](https://github.com/jobinvarughese/Download-URLs-in-a-dataframe-within-respective-folders-from-rownames)
 
-##### Native bird colisation in invasive stands
+[![Understory-Regeneration](https://img.shields.io/badge/Github-DetrendedCanonicalAnalysis-white?style=rounded-square)](https://github.com/jobinvarughese/Detrended-Canonical-Analysis-)
+
+[![Understory-Regeneration](https://img.shields.io/badge/Github-SpeciesAreaCurve-white?style=rounded-square)](https://github.com/jobinvarughese/Species-Area-Curve)
+
+[![Understory-Regeneration](https://img.shields.io/badge/Github-VennDiagramShowingUnderstorySpeciesCountInEachOverstoryType-white?style=rounded-square)](https://github.com/jobinvarughese/Venn-diagram-showing-understory-species-count-in-each-overstory-type)
+
+[![Understory-Regeneration](https://img.shields.io/badge/Github-NMDSforUnderstorySpeciesAndOverstoryTypes using ggplot-white?style=rounded-square)](https://github.com/jobinvarughese/NMDS-for-understory-species-and-overstory-types using ggplot)
+
+##### Native bird colonisation in invasive stands
 
 
 #### Forest Mensuration
