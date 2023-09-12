@@ -27,7 +27,7 @@ I am also looking for postdoctoral opportunities.
 
 [![Understory-Regeneration](https://img.shields.io/badge/Github-DetrendedCanonicalAnalysis-white?style=rounded-square)](https://github.com/jobinvarughese/Detrended-Canonical-Analysis-)
  
->>>Miscellaneous
+>>Miscellaneous
 
 [![Understory-Regeneration](https://img.shields.io/badge/Github-DownloadURLsinDataframeWithinRespectiveFoldersfromRownames-white?style=rounded-square)](https://github.com/jobinvarughese/Download-URLs-in-a-dataframe-within-respective-folders-from-rownames)
 
@@ -38,14 +38,14 @@ I am also looking for postdoctoral opportunities.
 
 >What are the specific ecological settings in a modified landscape that permit the colonisation of native faunal biodiversity?
 
->###### Collating data from ODK used to survey birds in field
+>>###### Collating data from ODK used to survey birds in field
 [![ODKtoDatasheet](https://img.shields.io/badge/Github-ODKtoDatasheet-white?style=rounded-square)](https://github.com/jobinvarughese/ODKtoDatasheet)
 
->###### Avian traits and Types of wooded stands (Shola and Timber plantation)
+>>###### Avian traits and Types of wooded stands (Shola and Timber plantation)
 
 [![Avian-traits-and-Types-of-wooded-stands](https://img.shields.io/badge/Github-AvianTraitsAndTypesOfWoodedStands-white?style=rounded-square)](https://github.com/jobinvarughese/Avian-Traits-and-Woodland-Type)
 
->>>Miscellaneous
+>>Miscellaneous
 
 [![Understory-Colonisation-Of-Birds](https://img.shields.io/badge/Github-GetSolarNoonTime-white?style=rounded-square)](https://github.com/jobinvarughese/GetSolarNoonTime)
 
