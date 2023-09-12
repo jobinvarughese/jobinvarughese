@@ -1,5 +1,4 @@
-### Hi there
-
+### Hi there 👋🏼
 >I am an ecologist, with interest in plants and birds. My research is interdisciplinary, and includes invasion ecology, landscape ecology and forest mensuration. 
 I am currently working on Terrestrial Laser Scanning data analyses at University of New Brunswick, Canada. 
 I am also looking for postdoctoral opportunities.
