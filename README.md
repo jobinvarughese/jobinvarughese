@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an ecologist, with interest in plants and birds. My research is interdisciplinary, and includes invasion ecology, landscape ecology and forest mensuration. 
+>I am an ecologist, with interest in plants and birds. My research is interdisciplinary, and includes invasion ecology, landscape ecology and forest mensuration. 
 I am currently working on Terrestrial Laser Scanning data analyses at University of New Brunswick, Canada. 
 I am also looking for postdoctoral opportunities.
 
@@ -11,7 +11,7 @@ I am also looking for postdoctoral opportunities.
 
 [![Understory-Invasion](https://img.shields.io/badge/Github-UnderstoryInvasion-white?style=rounded-square)](https://github.com/jobinvarughese/Understory-invasion-paper)
 
-Published in
+>Published in
 
 [![Ecology and Evolution](https://img.shields.io/badge/EcologyAndEvolution-white?style=rounded-square)](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9995)
 
