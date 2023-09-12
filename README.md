@@ -9,6 +9,7 @@ I am also looking for postdoctoral opportunities.
 
 >##### Invader-facilitated Invasion
 >What are the patterns of understory plant regeneration in invasive timber landscapes for invasive species?
+>>The presence of invasive trees can facilitate invasion of other species, can compete with natural forest regeneration, disrupt animal movements, and exacerbate edge effects. To understand these invasions comprehensively, it is crucial to map them at a landscape level and determine if specific overstory invasive species are associated with particular understory invasive species. Identifying stands with significant understory invasion can aid in targeted interventions and assist in effective management strategies.
 
 [![Understory-Invasion](https://img.shields.io/badge/Github-UnderstoryInvasion-white?style=rounded-square)](https://github.com/jobinvarughese/Understory-invasion-paper)
 
