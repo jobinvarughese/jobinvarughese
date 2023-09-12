@@ -21,6 +21,8 @@ I am also looking for postdoctoral opportunities.
 
 >##### Native forest trees regeneration in invasive stands
 >What are the patterns of understory plant regeneration in invasive timber landscapes for native forest species?
+>> Field observations indicate that plantations in Shola Sky Islands are often a mix of different exotic timbers (Acacia, Pine, and Eucalyptus), with native forest regeneration more abundant towards the older plantations. For nuanced biodiversity conservation, it is important to assess the attributes responsible for arresting native regeneration establishments in invasive stands across the entire landscape. 
+
 
 [![Understory-Regeneration](https://img.shields.io/badge/Github-SpeciesAreaCurve-white?style=rounded-square)](https://github.com/jobinvarughese/Species-Area-Curve)
 
@@ -41,6 +43,8 @@ I am also looking for postdoctoral opportunities.
 >##### Native bird colonisation in invasive stands
 
 >What are the specific ecological settings in a modified landscape that permit the colonisation of native faunal biodiversity?
+>> Invasive timber stands as a refuge for native fauna have remained unstudied, although tropical forest faunal species are known to use them extensively. The quality of this habitat to rainforest animals needs to be better understood. The undergrowth vegetation of timber stands or the surrounding landscape configuration may provide helpful information regarding the distribution patterns of the colonising birds. 
+
 
 >>###### Collating data from ODK used to survey birds in field
 [![ODKtoDatasheet](https://img.shields.io/badge/Github-ODKtoDatasheet-white?style=rounded-square)](https://github.com/jobinvarughese/ODKtoDatasheet)
