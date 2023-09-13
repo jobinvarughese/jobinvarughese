@@ -78,7 +78,7 @@ I am also looking for postdoctoral opportunities.
 
 
 >##### RGB map
->>To study the intercation between landscape and climate change, I created an RGB map with three variables: land cover change, minimum temperature and precipitation in three channels: R, G and B.
+>>To study the interaction between landscape and climate change, I created an RGB map with three variables: land cover change, minimum temperature and precipitation in three channels: R, G and B.
 
 [![RGB-Map](https://img.shields.io/badge/Github-RGBMap-white?style=rounded-square)](https://github.com/jobinvarughese/RGB-Map)
 
